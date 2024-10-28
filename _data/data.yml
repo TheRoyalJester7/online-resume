@@ -3,11 +3,11 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title 
+  name: Victoria DO                      # name
+  title: High School Student           # job title 
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # file path or link to your avatar
+    path: https://i.pinimg.com/originals/38/a7/e3/38a7e3438f67df07ae3f21a38cfcc44e.jpg # file path or link to your avatar
 
 contact:
   location: Beijing, China  # location, text or markdown link syntax
