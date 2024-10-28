@@ -172,7 +172,6 @@ education:
         Multidisciplinary Endorsement. High-achieving AP and Honors student.
         + Class Rank: 27/865
         + SAT SuperScore: 1500/1600
-        + NATIONAL MERIT SEMI-FINALIST
 
 award:
   show: true
@@ -195,21 +194,21 @@ organization:
   title: Organizations
   description: |
 
-items:
-  - name: Future Business Leaders of America (FBLA)
-    description: |
-      Member, competitor, and officer of Cinco’s FBLA chapter. Competed in:
-      + Freshman: Intro to Financial Math
-      + Sophomore: Intro to Social Media Strategy - Finalist at State
-      + Junior: Future Business Educator - 1st place at Area 5, 3rd place at State, Qualified for Nationals
-  - name: Science Olympiad
-    description: |
-      Member, competitor, and officer of Cinco’s Science Olympiad.
-      + Competition Awards:
-      + 2023 Regionals: 2nd in Codebusters
-      + 2023 Rickards (National): 14th in Write It, Do It
-      + 2023 Boyceville (National): 8th in Code Analysis, 4th in Geocaching, 3rd in Write It, Do It
-      + 2024 Plano: 3rd in Experimental Design, 2nd in Codebusters
+  items:
+    - name: Future Business Leaders of America (FBLA)
+      description: |
+        Member, competitor, and officer of Cinco’s FBLA chapter. Competed in:
+        + Freshman: Intro to Financial Math
+        + Sophomore: Intro to Social Media Strategy - Finalist at State
+        + Junior: Future Business Educator - 1st place at Area 5, 3rd place at State, Qualified for Nationals
+    - name: Science Olympiad
+      description: |
+        Member, competitor, and officer of Cinco’s Science Olympiad.
+        + Competition Awards:
+        + 2023 Regionals: 2nd in Codebusters
+        + 2023 Rickards (National): 14th in Write It, Do It
+        + 2023 Boyceville (National): 8th in Code Analysis, 4th in Geocaching, 3rd in Write It, Do It
+        + 2024 Plano: 3rd in Experimental Design, 2nd in Codebusters
 
 
   
