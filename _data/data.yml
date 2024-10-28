@@ -15,9 +15,9 @@ contact:
   phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
 
-  gender:                   # gender or pronoun
-  birthday:                 # birthday
-  nationality:              # nationality
+  pronouns: she/her                  # gender or pronoun
+  birthday: February 10, 2007                # birthday
+  nationality: Vietnamese American             # nationality
   visa:                     # passport visa
   drivinglicense:           # driving licence
 
