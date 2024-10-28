@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-title: Online Resume
+title: Victoria Do's Resume
 url:
 baseurl:
 
@@ -32,6 +32,3 @@ analytics:
   google:                   # google
   cloudflare:               # cloudflare
   umami:                    # umami (Replace it with your own)
-    script: https://u.tarrex.com/u.js
-    website_id: af636e2d-31ae-46f1-9071-82b1745143a9
-    domains: tarrex.github.io,tarrex.com
