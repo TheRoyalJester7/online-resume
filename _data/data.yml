@@ -3,7 +3,7 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Victoria DO                      # name
+  name: Victoria Do                      # name
   title: High School Student           # job title 
   avatar:
     show: true                       # show or hide avatar
