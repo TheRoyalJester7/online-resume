@@ -104,39 +104,32 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Applying as a Data Science/Informatics Major and considering a double major in Business Administration.
 
 experience:
   show: true
   order: 2
   title: Experiences
   description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: Second Company
+    - company: Emler Swim School
       link: '#'
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+      tags: Part-time
+      date: May 2024 - July 2024
+      role: Swim Instructor
+      location: Katy
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Swimming instructor for young kids ages 3-10. Taught essential water skills, life-saving techniques, and proper swimming strokes. Engaged with and entertained both parents and children in swim lessons.
 
-    - company: First Company
+    - company: CodeWiz
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
+      tags: Part-time
+      date: August 2024 - PRESENT
+      role: Coding Instructor
       location: Beijing
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Coding instructor for young kids ages 5-17. Taught different languages of coding like Python, Scratch, Java, Minecraft Modding, Roblox Lua, etc. Taught around 10 kids per hour-long class.
 
 project:
   show: true
